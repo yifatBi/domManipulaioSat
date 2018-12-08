@@ -1,0 +1,1205 @@
+﻿[
+  {
+    "country": "Afghanistan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "IEC Telecom Afghanistan"
+    ]
+  },
+  {
+    "country": "American Samoa",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Angola",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "IP4U"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 5,
+    "names": [
+      "ELECTRONICA NAVAL S.A.",
+      "ING Industrial and Naval Group",
+      "Telespazio Argentina S.A.",
+      "TESACOM- TE.SA.M Argentina S.A",
+      "World-Link Communications, Inc"
+    ]
+  },
+  {
+    "country": "Aruba",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Australia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 11,
+    "names": [
+      "Addcom Contact Solutions Pty Ltd",
+      "Applied Satellite Technology Australia Pty Ltd",
+      "Applied Satellite Technology Australia Pty Ltd",
+      "Applied Satellite Technology Australia Pty Ltd",
+      "Global Maritime Data and Airtime Services (GMDAS)",
+      "Inmarsat",
+      "MarlecPty Ltd",
+      "MGLSAT",
+      "Network Innovations, Inc.",
+      "Orbit Satellite",
+      "Satellite Communications Australia Pty Ltd"
+    ]
+  },
+  {
+    "country": "Austria",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Belgium",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 5,
+    "names": [
+      "Astron NV",
+      "European Datacomm NV",
+      "Mackay Marine",
+      "Radio Holland",
+      "Telelink"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Globalsat Bolivia Ltda."
+    ]
+  },
+  {
+    "country": "Botswana",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Brazil",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 9,
+    "names": [
+      "Arycom Comunicação via Satélite Ltda.",
+      "Carrierweb-BR Soluções Tecnológicas Ltda",
+      "Hughes Telecomunicações do Brasil",
+      "Inmarsat",
+      "Mackay Marine",
+      "MVS Brasil Telecomunicacoes Ltda",
+      "Onixtec",
+      "Satcom Direct Brazil",
+      "Telespazio Brazil SA"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "NBS Maritime Ltd"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Canada",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 9,
+    "names": [
+      "CAN Telematics Inc.",
+      "Inmarsat",
+      "Inmarsat",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Network Innovations"
+    ]
+  },
+  {
+    "country": "Chile",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "Globalsat Group - Globalsat Chile",
+      "Tesacom- Tesam Chile SA"
+    ]
+  },
+  {
+    "country": "China",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Beijing Marine Communications and Navigation",
+      "Mackay Marine",
+      "Radio Holland China",
+      "Shanghai Hanxin Information Technology Co.,Ltd."
+    ]
+  },
+  {
+    "country": "Colombia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "ECOMIL S.A.S",
+      "Globalsat Colombia Telecomunicaciones Ltda.",
+      "MVS TELECOMMUNICATIONS COLOMBIA SAS",
+      "Satphone Colombia S.A.S"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Curacao",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Cyprus",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 6,
+    "names": [
+      "Monarch Telecom Limited",
+      "MVS  Communications",
+      "One Net Limited",
+      "Telaccount Overseas",
+      "Tototheo Maritime Ltd",
+      "World-Link Communications, Inc"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "STADLER Consulting, s.r.o."
+    ]
+  },
+  {
+    "country": "Denmark",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "Furuno",
+      "NSSLGlobal Aps",
+      "Polaris Electronics A/S"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Ecuador",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "Comsatel S.A.",
+      "ELECTRONICA MARINA BRANDS",
+      "Satlink SL (Ecuador)"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Estonia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Falkland Islands",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Finland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Telemar Oy, Telemar Scandinavia AB"
+    ]
+  },
+  {
+    "country": "France",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 11,
+    "names": [
+      "E-SAT",
+      "Eclipse",
+      "Geolink Satellite Services",
+      "IEC Telecom Europe",
+      "Marlink SAS",
+      "Marlink SAS",
+      "Orange Business Services (France Telecom Group)",
+      "TD COM",
+      "Telespazio",
+      "THALOS SAS",
+      "Traksat SARL"
+    ]
+  },
+  {
+    "country": "Georgia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Germany",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 13,
+    "names": [
+      "CETEL",
+      "CPN Satellite Services GmbH",
+      "DH INTERCOM",
+      "Expeditionstechnik Daerr GmbH",
+      "Mackay Marine",
+      "Marlink GmbH",
+      "NSSLGlobal GmbH",
+      "Radio Holland Germany GmbH",
+      "Telaurus Communications Munich",
+      "Telemar GmbH",
+      "Telemar GmbH",
+      "Telespazio VEGA Deutschland GmbH",
+      "TransTel"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "ATRAMS Ltd"
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Greece",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 7,
+    "names": [
+      "ARCOM TELECOMS",
+      "Hellenic Radio Services",
+      "Marlink",
+      "Navarino Telecom",
+      "OTESAT-Maritel",
+      "Speedcast Limited",
+      "TNL Greece LTD"
+    ]
+  },
+  {
+    "country": "Greenland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Guam",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Hong Kong",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 6,
+    "names": [
+      "Callmonitor Ltd Hong Kong",
+      "Inmarsat",
+      "Mackay Marine",
+      "Radio Holland Hong Kong Ltd",
+      "Satcom Direct Hong Kong",
+      "SpeedCast Limited"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Iceland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "India",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 5,
+    "names": [
+      "Elektronik Lab",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Station Satcom",
+      "Tata Communications Limited"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "PT Aplikasi Satelit Teknologi Indonesia AST Indonesia",
+      "PT Dini Nusa Kusuma"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "AlAwsat for Telecommunication services Ltd"
+    ]
+  },
+  {
+    "country": "Ireland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Israel",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Italy",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 9,
+    "names": [
+      "AD SERVIZI INTEGRATI SRL",
+      "Argenton e Soci",
+      "Generalmarine srl",
+      "GEOBORDERS ITALY SRL",
+      "Intermatica S.p.A.",
+      "SIRM Società Italiana Radio Marittima Spa",
+      "Telemar Yachting",
+      "Telespazio S.p.A.",
+      "UNIVERSAT ITALIA SERVICES SRL"
+    ]
+  },
+  {
+    "country": "Japan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 5,
+    "names": [
+      "Japan Digital Communications",
+      "JSAT MOBILE Communications Inc.",
+      "KDDI Corporation",
+      "Kyoritsu Radio Service Co., Ltd.",
+      "Marlink KK"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Kazakhstan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "IEC Telecom Kazakhstan",
+      "Jarykh Ltd.",
+      "Tarlan Telecom"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "AST Systems (Africa) Ltd",
+      "Indigo Telecom Limited",
+      "Onenet Africa limited"
+    ]
+  },
+  {
+    "country": "Laos",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Latvia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Lebanon",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Murr Marine Electronics"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Liechtenstein",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Lithuania",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Luxembourg",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Madagascar",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Malawi",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Malaysia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "Amberon Sdn. Bhd.",
+      "RADII TEKNOLOGI SDN BHD",
+      "Telekom Malaysia Bhd (TM)"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "E3X Global (Pvt) Ltd"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Satellite Air Time"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Distribucion y Tecnologias SA de CV",
+      "LANDSAT, S.A. DE C.V.",
+      "Tecnor - Tecnologias de Control del Norte SA de CV",
+      "Whenever Communications LLC (Mexico)"
+    ]
+  },
+  {
+    "country": "Monaco",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "NAYA sarl"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "European Datacomm Maghreb"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Namibia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Netherlands",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 10,
+    "names": [
+      "Alphatron Marine B.V.",
+      "Globecomm Europe",
+      "Inmarsat",
+      "Mackay Marine",
+      "Marlink BV",
+      "Network Innovations BV",
+      "Radio Holland",
+      "Radio Holland Connect BV",
+      "Radio Holland Curacao International N.V.",
+      "VrieService BV"
+    ]
+  },
+  {
+    "country": "Netherlands Antilles",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Radio Holland Curacao International N.V."
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Wright Satellite Connections"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "Centerbase International Communications Ltd",
+      "MobileEye Limited",
+      "Oilreach Communications Ltd"
+    ]
+  },
+  {
+    "country": "Norway",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "IEC Telecom Norway",
+      "Marlink AS",
+      "Marlink AS",
+      "Radio Holland Norway AS"
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Amtech Int. (Pvt) LTD"
+    ]
+  },
+  {
+    "country": "Panama",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Innovatio TSEM Corp.",
+      "Mackay Marine",
+      "Marina Satellite Services",
+      "Shipping Radio & Management International Inc."
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Paraguay",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Tesacom -Tesam Paraguay SA"
+    ]
+  },
+  {
+    "country": "Peru",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "TE.SA.M. PERU S.A.",
+      "TESACOM PERU S.A.C"
+    ]
+  },
+  {
+    "country": "Poland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Marsat ( Morsviazsputnik)",
+      "NavSim Poland Ltd.",
+      "NSSLGlobal sp. z o.o",
+      "TS2 Marcin Frackiewicz"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 3,
+    "names": [
+      "EIXO DIGITAL - CONSULTORIA EM SISTEMAS DE INFORMAÇÃO LDA",
+      "Nautel Sistemas Electronicos, Lda",
+      "Radio Holland Portugal, S.A."
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Qatar",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Es'hailSat, Qatar Satellite Company"
+    ]
+  },
+  {
+    "country": "Reunion",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Romania",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "RARTEL S.A."
+    ]
+  },
+  {
+    "country": "Russia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "Marsat ( Morsviazsputnik Russia )",
+      "Satcom Direct Russia"
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Satlink, Ltd."
+    ]
+  },
+  {
+    "country": "Singapore",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 13,
+    "names": [
+      "Applied Satellite Technology Asia Pte Ltd",
+      "AST Distribution Asia Pte Ltd",
+      "Globecomm Asia Pte Ltd",
+      "IEC Telecom Singapore",
+      "Jason Electronics Pte Ltd",
+      "Mackay Marine",
+      "Navarino PTE Ltd Singapore",
+      "Nera Telecommunciations Ltd",
+      "Network Innovations Inc.",
+      "Radio Holland Singapore Pte Ltd",
+      "Singapore Telecommunications Limited",
+      "SMTS Pte Ltd",
+      "Station Satcom Pte. Ltd"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "STADLER Consulting, s.r.o."
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "South Africa",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 11,
+    "names": [
+      "Applied Satellite Technology Ltd",
+      "Ashbury SatCom Pty Ltd",
+      "Concilium Technologies",
+      "Global Supply Chain Services (Pty) Ltd",
+      "globalCom Satellite LLC",
+      "Globecomm Africa",
+      "Radio Holland South Africa",
+      "Radio Holland South Africa (Pty) Ltd",
+      "Radio Holland South Africa (Pty) Ltd",
+      "Satellite Communication CC",
+      "Zippisat"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "ILWOO INTERNATIONAL CO.,LTD."
+    ]
+  },
+  {
+    "country": "Spain",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 12,
+    "names": [
+      "AEROMARINE",
+      "Ecubed Systems",
+      "Erzia Technologies SL",
+      "EuroShip S.A.",
+      "Inmarsat",
+      "Mackay Marine",
+      "Nautical Luis Arbulu, S.L.",
+      "Satlink S.L.",
+      "Satlink, S. L.",
+      "Telefonica International Wholesale Services II S.L (TIWS II)",
+      "Telespazio Spain",
+      "Verasat Global S.L"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "E3X Global (Private) Limited"
+    ]
+  },
+  {
+    "country": "St Lucia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "St Vincent",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Sudan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "AST Systems South Sudan"
+    ]
+  },
+  {
+    "country": "Swaziland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Sweden",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Cordland Marine AB",
+      "IDG Europe AB",
+      "IEC Telecom Sweden - An IEC Telecom Group Company",
+      "Telemar Scandinavia AB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "FS Communications GmbH / Ltd.",
+      "Satcom Direct Geneva",
+      "Satellite Communication SA",
+      "T3 Risk Management SA"
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Thailand",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "S.D.A. Group Co.Ltd."
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "Dockyard Electrics T&T Ltd",
+      "Radio Holland Trinidad and Tobago Ltd."
+    ]
+  },
+  {
+    "country": "Turkey",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 4,
+    "names": [
+      "Arskom Group",
+      "IEC Telecom Turkey",
+      "Mobilkom Elektronik Sanayi  ve Ticaret Ltd.",
+      "Türksat A.S."
+    ]
+  },
+  {
+    "country": "UAE",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 7,
+    "names": [
+      "Elcome International LLC",
+      "Global Beam Telecom",
+      "Globecomm Middle East",
+      "IEC Telecom UAE",
+      "IEC Telecom UAE",
+      "Satcom Direct Dubai",
+      "Zener One Net LLC"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Ukraine",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 2,
+    "names": [
+      "Beinleumi Ukraine P.E.",
+      "Radio Satcom Group LLC"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 27,
+    "names": [
+      "7E Communications",
+      "AERO-SATCOM Limited",
+      "Applied Satellite Technology Ltd",
+      "Applied Satellite Technology Systems Ltd",
+      "Ashbury SatCom Ltd",
+      "AST Marine Networks",
+      "AST Marine Sciences Ltd",
+      "Callmonitor LTD",
+      "Callmonitor Ltd",
+      "GEOBORDERS SATELLITE LTD",
+      "Global Telesat Communications Ltd",
+      "GTMaritime",
+      "Inmarsat",
+      "Mobell Communications Ltd",
+      "Mobile Communications Network",
+      "Navarino UK Ltd",
+      "Network Innovations Inc.",
+      "NSSLGlobal Ltd",
+      "Paradigm Communication Systems Ltd",
+      "Radio Holland Marine and Offshore Ltd.",
+      "Satcom Direct International",
+      "Satcom Global Ltd",
+      "SIRM UK Ltd",
+      "Spectra Group (UK) Ltd",
+      "Telaurus Communications London",
+      "Telemar (UK) Ltd",
+      "Telespazio VEGA UK Ltd"
+    ]
+  },
+  {
+    "country": "USA",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 57,
+    "names": [
+      "AOS, Inc. dba SES-GS",
+      "Applied Satellite Technology Systems US LLC",
+      "Atlantic Radiotelephone Inc",
+      "BlueCosmo Satellite Communications",
+      "Boeing Commercial Satellite Services",
+      "Callmonitor Ltd US",
+      "COMSAT, Inc.",
+      "DECKHOUSE COMMUNICATIONS INC",
+      "Delta Wave Communications, Inc.",
+      "Galaxy 1 Communications",
+      "Global Satellite USA",
+      "Global Telesat Corp",
+      "Globalsat Latam LLC",
+      "Globecomm Government",
+      "Globecomm Systems New York",
+      "Ground Control",
+      "Inmarsat",
+      "Inmarsat",
+      "Inmarsat",
+      "Inmarsat Government",
+      "Klas Telecom Inc",
+      "L-3 GCS",
+      "M2M Data Corporation",
+      "Mackay Communications, Inc.",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Mackay Marine",
+      "Marlink Inc",
+      "MVS USA",
+      "Network Innovations Inc.",
+      "Ocean and Coastal Environmental Sensing, Inc.",
+      "Radio Holland USA",
+      "Radio Holland USA",
+      "Remote Satellite Systems International",
+      "RigNet Inc.",
+      "Satcom Direct",
+      "Satcom Direct",
+      "Satcom Direct",
+      "SATWORX",
+      "Telaurus Communications LLC",
+      "Telaurus Communications LLC",
+      "Telemar USA, LLC",
+      "Whenever Communications LLC",
+      "Whenever Communications LLC",
+      "Whenever Communications LLC (Anchorage)",
+      "World-Link Communications, Inc"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Vanuatu",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Venezuela",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Globalsat Group - Globalsat Venezuela"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "VISHIPEL"
+    ]
+  },
+  {
+    "country": "Virgin Islands UK",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 1,
+    "names": [
+      "Cay Electronics"
+    ]
+  },
+  {
+    "country": "Virgin Islands US",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Zambia",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  },
+  {
+    "country": "Zimbabwe",
+    "sector": "Select sector...",
+    "service": "Select service...",
+    "resultNum": 0,
+    "names": []
+  }
+]
